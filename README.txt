@@ -1,5 +1,4 @@
-ELAS NO MAPA — SITE
-Desenvolvido para a disciplina de Educação em Diversidade
+ELAS NO MAPA — SITE COMPLETO
 
 index.html: Landing page (página inicial)
 mapa.html: Plataforma interativa com mapa, vagas e avaliações fictícias
